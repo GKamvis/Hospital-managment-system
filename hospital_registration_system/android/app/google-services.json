@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752312152785",
+    "project_id": "hospital-registration-sy-a1b04",
+    "storage_bucket": "hospital-registration-sy-a1b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752312152785:android:37d51278b6f7e4c5b5cbf0",
+        "android_client_info": {
+          "package_name": "com.example.hospital_registration_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6eTCfq_0Fu71qoVwK6cg1_LnGx2fBPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
